@@ -1,0 +1,23 @@
+.button {
+  background: #0077ff;
+  padding: 10 20px;
+  border: none;
+  outline: none;
+  border-radius: 50px;
+  display: flex;
+  align-items: center;
+  margin: 20px auto;
+  height: 40px;
+  color: #fff;
+  font-size: 18px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: all 0.3s ease-in-out;
+}
+.button:hover {
+  background: #043676;
+}
+
+.arrow {
+  margin-left: 10px;
+}
